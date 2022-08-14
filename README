@@ -1,4 +1,5 @@
-The data used in this project was the Covid19 dataset downloaded from ourworldindata.org
+The data used in this project was the Covid19 dataset downloaded from ourworldindata.org.
+I loaded the the CSV file into Microsoft Excel just to take good look at the data and get familiar with it, after that; I imported the excel file into Microsoft sequel Server which I used for this project.
 I used SQL to query the data inorder to gain insights such as;
 - Global Vaccination Report By Countries 
 - Percentage of the population Vaccinated by countries
