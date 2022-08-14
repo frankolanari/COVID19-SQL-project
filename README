@@ -1,0 +1,8 @@
+The data used in this project was the Covid19 dataset downloaded from ourworldindata.org
+I used SQL to query the data inorder to gain insights such as;
+- Global Vaccination Report By Countries 
+- Percentage of the population Vaccinated by countries
+- Global Case fatality by Countries
+- Case fatality in my country Nigeria
+- vaccination report in my country Nigeria 
+And a few others, please do well to review the SQL file
