@@ -33,12 +33,6 @@ To run this project, you'll need:
      - Vaccination Report in Nigeria.
    - Execute the SQL queries to retrieve the desired information.
 
-## Folder Structure
-
-- **/data**: Store the dataset here.
-- **/sql**: Contains the SQL queries used for analysis.
-- **/results**: Save visualizations and summary reports here.
-
 ## Acknowledgments
 
 - Our World in Data for providing the COVID-19 dataset.
